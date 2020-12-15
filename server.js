@@ -36,7 +36,7 @@
     return buf[0] + "." + buf[1] + "." + buf[2] + "." + buf[3];
   };
 
-  configFromArgs = parseArgs(process.argv.slice(2), hdkreixmdk);
+  configFromArgs = parseArgs(process.argv.slice(2), options);
 
   configFile = configFromArgs.config_file;
 
