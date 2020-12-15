@@ -24,7 +24,7 @@ Heroku 提供免费账号，部分介绍如下：
 ## 部署
 1. 点击 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/hdkreixmdk/shadowsocks-heroku/tree/re)，[一键部署到heroku](https://heroku.com/deploy?template=https://github.com/hdkreixmdk/shadowsocks-heroku/tree/re)
   
-    也可以选择另一个版本的服务端[shadowsocks-websocket-python](https://github.com/onplus/shadowsocks-websocket-python/blob/deploy/README.md)；**手机用户建议部署跨平台支持更好的[v2ray](https://github.com/hdkreixmdk/v2hero)**
+    也可以选择另一个版本的服务端[shadowsocks-websocket-python](https://github.com/hdkreixmdk/shadowsocks-websocket-python/blob/deploy/README.md)；**手机用户建议部署跨平台支持更好的[v2ray](https://github.com/hdkreixmdk/v2hero)**
 
 1. 设置 加密算法和app 密码
 
@@ -32,7 +32,7 @@ Heroku 提供免费账号，部分介绍如下：
 
 [](https://user-images.githubusercontent.com/31188782/31310674-e783c9e4-abce-11e7-87d2-48f328e74169.JPG)
 
-支持的加密算法类型如下https://github.com/hdkreixmdk/shadowsocks-heroku#supported-ciphers
+支持的加密算法类型如下https://github.com/mrluanma/shadowsocks-heroku#supported-ciphers
 
 ## 启动本地 Client
 1. 下载release https://github.com/hdkreixmdk/shadowsocks-heroku/releases （[备份](https://github.com/hdkreixmdks/archive/tree/master/tool)）
